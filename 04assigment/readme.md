@@ -72,6 +72,9 @@ if (age >= 18)  {
  }
 
 4. You need to have 75% attendance to write the exam .Take the total number of classes and the number of attendance from the student and tell him if we can write the exam.
+  
+  
+  
   let  t = prompt ("total number of working days")
    let  a = prompt ("number of days attended")
     if ( ((a/t)*100) >=75) {
