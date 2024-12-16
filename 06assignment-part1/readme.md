@@ -1,6 +1,6 @@
 1. write short  notes on array methods with code example
 
-* push 
+* push()
        Adds the new element at the end of the arry.
 
        let animals = ["tiger","lion","elephant"]
@@ -20,6 +20,8 @@
 
 
 * shift()
+
+
           Eliminates the first element from the array.
            let animals = ["tiger","lion","elephant"]
            animals.shift()
@@ -28,6 +30,9 @@
 
 
 * unshift()
+
+
+
              Adds the new element at the begining of the arry.
              
              let animals = ["tiger","lion","elephant"]
@@ -37,6 +42,9 @@
 
 
 * includes()
+
+
+
               The includes() method returns true if an array contains a specified value.
 
               let numbers = [1,2,3,4]
@@ -51,7 +59,9 @@
 
 
 
-* tostring 
+* tostring()
+
+
             It converts an array into a string.              
 
             let fruits = ["apple","orange","grapes","pineapple"]
@@ -59,7 +69,9 @@
             OUTPUT : apple,orange,grapes,pineapple
 
 
-* reverse
+* reverse()
+
+
             It is used to reverse the order of elements in an array.
 
             let fruits = ["apple","orange","grapes","pineapple"]
@@ -67,7 +79,8 @@
             OUTPUT : [ 'pineapple', 'grapes', 'orange', 'apple' ]
 
 
-* join 
+* join()
+
           
           It is used to join all elements of an array into a single string.
 
@@ -106,6 +119,9 @@
 
 
 * splice()
+
+
+
             It is used to add,remove or replace elements in an array.
 
             let fruits = ["apple","pineapple","banana",]
@@ -114,7 +130,9 @@
             OUTPUT :  [ 'kiwi', 'pineapple', 'banana' ]
 
 
-* sort()
+* sort()  
+
+
          It is used to sort the elements in an array.
 
          let fruits = ["apple","pineapple","banana",]
@@ -123,6 +141,8 @@
 
 
 * fill()
+
+
          It is used to fill all the elements of an array. 
 
          let animals = ["lion","tiger","elephant",]
