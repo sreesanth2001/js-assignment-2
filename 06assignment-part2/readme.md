@@ -45,7 +45,7 @@ Write short notes on Array methods with code example
 
     It is used to execute a provided function once for each array element.
 
-     let sum = 0
+l    let sum = 0
      const numbers = [65, 44, 12, 4]
      numbers.forEach(function(item) {
      sum += item
